@@ -1,0 +1,25 @@
+{
+  "overview": "A responsive emergency help web app for quick access to emergency services in India. Features one-tap dialing for 10+ emergency numbers, live location sharing via WhatsApp and SMS, saved emergency contacts with localStorage persistence, a prominent panic button with confirmation, and dark/light mode toggle.",
+  "features": [
+    "10+ emergency service quick-dial buttons (Ambulance, Police, Fire, and more)",
+    "Send My Location using Geolocation API with Google Maps link",
+    "WhatsApp and SMS location sharing",
+    "Save and manage personal emergency contacts",
+    "Panic button that alerts all saved contacts with your location",
+    "Dark/Light mode toggle with localStorage persistence",
+    "Mobile-first responsive design with large touch-friendly buttons",
+    "Vibration feedback on panic button tap"
+  ],
+  "category": "productivity",
+  "tags": [
+    "emergency",
+    "safety",
+    "helpline",
+    "india",
+    "mobile",
+    "responsive",
+    "geolocation",
+    "contacts"
+  ],
+  "last_updated": "2026-04-15T06:13:53.359Z"
+}
